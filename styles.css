@@ -38,5 +38,12 @@ li{
 #introduction{
   background-color: lightyellow;
   border: 2px solid black;
-  padding: 20px
+  padding: 20px;
 }
+
+.highlight{
+  background-color: solid black;
+  border: 2px solid black;
+  padding: 20px;
+}
+  
