@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    background-color: lightblue;
+    background-color: rgb(201, 255, 4);
     border: 2px solid black;
     padding: 30px;
     text-align: center;
@@ -31,25 +31,25 @@ body {
 }
 
 .left-sidebar {
-    background-color: lightyellow;
+    background-color: rgb(228, 18, 18);
     border: 2px solid black;
     padding: 20px;
 }
 
 .main-content {
-    background-color: lightgreen;
+    background-color: rgb(10, 62, 231);
     border: 2px solid black;
     padding: 20px;
 }
 
 .right-sidebar {
-    background-color: lightpink;
+    background-color: rgb(253, 148, 10);
     border: 2px solid black;
     padding: 20px;
 }
 
 .footer {
-    background-color: lightsalmon;
+    background-color: rgb(28, 238, 0);
     border: 2px solid black;
     padding: 30px;
     text-align: center;
