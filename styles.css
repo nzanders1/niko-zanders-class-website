@@ -28,6 +28,7 @@ img{
   border: 5px solid black;
   border-radius: 10px;
   filter: drop-shadow(16px 16px 20px gray);
+  margin: 20px;
 }
 
 li{
@@ -40,6 +41,7 @@ li{
   background-color: lightyellow;
   border: 2px solid black;
   padding: 20px;
+  margin: 20px;
 }
 
 .highlight{
