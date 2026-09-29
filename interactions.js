@@ -8,4 +8,3 @@ function changeMessage(){
     message.textContent = "You clicked the button!";
 }
     
-
